@@ -26,7 +26,10 @@ I'm a Computer Science graduate from the **University of Karachi (UBIT)**, inter
 ## 🧰 Tech Stack
 
 **Programming**
-<p><img src="https://skillicons.dev/icons?i=python,c&theme=dark" alt="Python and C" /></p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,c&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,c&theme=light" alt="Python and C" />
+</picture>
 
 **Data Science & Machine Learning**
 <p>
@@ -39,7 +42,10 @@ I'm a Computer Science graduate from the **University of Karachi (UBIT)**, inter
 </p>
 
 **Databases & Development**
-<p><img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,react,git,github,vscode&theme=dark" alt="MySQL, PostgreSQL, MongoDB, React, Git, GitHub, VS Code" /></p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mysql,postgres,mongodb,react,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,react,git,github,vscode&theme=light" alt="MySQL, PostgreSQL, MongoDB, React, Git, GitHub, VS Code" />
+</picture>
 
 **Analytics Tools**
 <p>
