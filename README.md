@@ -1,193 +1,117 @@
- 
-<!-- ===================================================== -->
-<!--                  HASSAN SHAHID                        -->
-<!-- ===================================================== -->
+<!-- Hassan Shahid | GitHub Profile -->
 
-<h1 align="center">Hey there, I'm Hassan Shahid 👋</h1>
-
-<h3 align="center">
-  Aspiring Data Scientist | Python Developer | Machine Learning Enthusiast
-</h3>
+<h1 align="center">Hi, I'm Hassan Shahid 👋</h1>
+<h3 align="center">Junior Data Scientist · Python Developer · Machine Learning Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=650&lines=Turning+Data+into+Insights;Building+Intelligent+Solutions;Exploring+Machine+Learning;Learning+and+Building+Every+Day" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=900&color=7AA2F7&center=true&vCenter=true&width=680&lines=Turning+Data+into+Insights;Building+Practical+AI+Solutions;Exploring+Machine+Learning;Learning+by+Building+Every+Day" alt="Typing animation" />
 </p>
-
 <p align="center">
-  <a href="https://github.com/HassanShahid12">
-    <img src="https://komarev.com/ghpvc/?username=HassanShahid12&label=PROFILE+VIEWS&color=7AA2F7&style=flat-square" alt="Profile Views" />
-  </a>
-  <a href="https://github.com/HassanShahid12?tab=followers">
-    <img src="https://img.shields.io/github/followers/HassanShahid12?label=Followers&style=flat-square&color=BB9AF7" alt="Followers" />
-  </a>
+  <a href="https://github.com/HassanShahid12"><img src="https://komarev.com/ghpvc/?username=HassanShahid12&label=PROFILE+VIEWS&color=7AA2F7&style=flat-square" alt="Profile views" /></a>
+  <a href="https://github.com/HassanShahid12?tab=followers"><img src="https://img.shields.io/github/followers/HassanShahid12?label=Followers&style=flat-square&color=BB9AF7" alt="Followers" /></a>
 </p>
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
-I'm a Computer Science graduate from the **University of Karachi (UBIT)** with a strong interest in Data Science, Machine Learning, and Python development.
+I'm a Computer Science graduate from the **University of Karachi (UBIT)**, interested in using data, Python, and machine learning to solve practical problems.
 
-I enjoy exploring datasets, identifying patterns, developing predictive models, and building practical solutions to real-world problems.
+- 🔭 Building projects in **Data Science, Machine Learning, and analytics**
+- 🌱 Strengthening my skills in **Python, SQL, Power BI, and applied machine learning**
+- 🧠 Interested in **predictive analytics, computer vision, and AI-powered decision support**
+- 📊 Experience in **e-commerce product research, market analysis, and data-driven decision-making**
+- 🤝 Open to opportunities in **Data Science, Data Analytics, and Python development**
 
-- 🔭 Currently building **Data Science and Machine Learning projects**
-- 🌱 Exploring **Advanced Machine Learning, SQL, and Data Analytics**
-- 🧠 Interested in **Predictive Analytics, Computer Vision, and AI**
-- 📊 Experienced in **Product Research, Market Analysis, and Data-Driven Decision Making**
-- 🤝 Open to collaborating on **Python, Machine Learning, and Data Analytics projects**
-- 💬 Feel free to ask me about **Python, SQL, Pandas, and Machine Learning**
-- 📫 Reach me through [LinkedIn](https://www.linkedin.com/in/hassan-shahid-5082b9331/)
+## 🧰 Tech Stack
 
-💡 **Fun fact:** I was making data-driven decisions with product listings before I called it Data Science!
+**Programming**
+<p><img src="https://skillicons.dev/icons?i=python,c&theme=dark" alt="Python and C" /></p>
 
----
-
-## 🛠️ Tech Stack
-
-### Programming
+**Data Science & Machine Learning**
 <p>
-  <img src="https://skillicons.dev/icons?i=python,c&theme=dark" alt="Python and C" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge" alt="MediaPipe" />
 </p>
 
-### Data Science & Machine Learning
+**Databases & Development**
+<p><img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,react,git,github,vscode&theme=dark" alt="MySQL, PostgreSQL, MongoDB, React, Git, GitHub, VS Code" /></p>
+
+**Analytics Tools**
 <p>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
-</p>
-
-### Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark" alt="Databases" />
-</p>
-
-### Development Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" alt="Development Tools" />
-</p>
-
-### Other Technologies
-<p>
-  <img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React" />
-  <img src="https://img.shields.io/badge/Advanced_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" />
-</p>
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/overview.dark.svg" />
-    <img src="./assets/overview.light.svg" alt="GitHub Overview Statistics" width="100%" />
-  </picture>
-</p>
-
-## 🔥 Contribution Streak & Activity
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions.dark.svg" />
-    <img src="./assets/contributions.light.svg" alt="Contribution Calendar and Current and Longest Streak" width="100%" />
-  </picture>
-</p>
-
-## 📅 Contribution History
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/lifetime.dark.svg" />
-    <img src="./assets/lifetime.light.svg" alt="Lifetime Contribution History" width="100%" />
-  </picture>
-</p>
-
-## 📈 Contribution Insights
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/composition.dark.svg" />
-    <img src="./assets/composition.light.svg" alt="Contribution Composition" width="100%" />
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/rhythm.dark.svg" />
-    <img src="./assets/rhythm.light.svg" alt="Contribution Activity Rhythm" width="100%" />
-  </picture>
-</p>
-
-## ⏱️ Commit Activity
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/cadence.dark.svg" />
-    <img src="./assets/cadence.light.svg" alt="Commit Activity by Day and Hour" width="100%" />
-  </picture>
+  <img src="https://img.shields.io/badge/Advanced_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel" />
+  <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Google Sheets" />
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 1. AI-Powered Startup Launchpad
-An AI-powered Decision Support System designed to help aspiring entrepreneurs explore business opportunities, understand startup requirements, and receive personalized recommendations.
+### [Brand Lift — Startup Decision Support System](https://github.com/HassanShahid12/Brand-Lift)
+A startup guidance platform with an intelligent survey, domain prediction, and tailored legal guidance to help aspiring founders understand their business direction and requirements.
 
-**Focus:** AI · Decision Support Systems · Python · Machine Learning Concepts · MongoDB
+**Tech:** React · TypeScript · Supabase · React Router · Tailwind CSS
 
-### 2. Data Science & Machine Learning Projects
-Practical projects involving data analysis, predictive modeling, and machine learning.
+### [OIBSIP — Data Science Internship Projects](https://github.com/HassanShahid12/OIBSIP)
+Hands-on data science projects including sales prediction, car price prediction, and unemployment analysis using data preparation, exploratory analysis, and machine learning.
 
-**Repository:** [OIBSIP](https://github.com/HassanShahid12/OIBSIP)
+**Tech:** Python · Pandas · Scikit-learn · Matplotlib · Seaborn · Jupyter
 
-### 3. PoseCorrect – Computer Vision
-An AI-based physiotherapy posture feedback project using computer vision, pose estimation, and exercise tracking.
+### PoseCorrect — Computer Vision & Posture Feedback
+An academic project exploring pose estimation and exercise feedback with webcam input, using joint-angle analysis and repetition tracking.
 
-**Focus:** Python · OpenCV · MediaPipe · Computer Vision
+**Tech:** Python · OpenCV · MediaPipe
 
-### 4. More Projects
-Continuously exploring new ideas and building practical applications.
-
-🔗 [Explore All Repositories](https://github.com/HassanShahid12?tab=repositories)
+<p align="center"><a href="https://github.com/HassanShahid12?tab=repositories"><img src="https://img.shields.io/badge/Explore-All%20Repositories-7AA2F7?style=for-the-badge&logo=github&logoColor=white" alt="Explore all repositories" /></a></p>
 
 ---
 
-## 🧠 Languages & Repository Insights
-
+## 📊 GitHub Overview
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/languages.dark.svg" />
-    <img src="./assets/languages.light.svg" alt="Programming Language Distribution" width="100%" />
-  </picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/overview.dark.svg" /><img src="./assets/overview.light.svg" alt="GitHub overview: contributions, stars, followers, and repositories" width="100%" /></picture>
 </p>
 
+## 🔥 Contributions & Streak
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/repositories.dark.svg" />
-    <img src="./assets/repositories.light.svg" alt="Top Repositories and Commit Rankings" width="100%" />
-  </picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/contributions.dark.svg" /><img src="./assets/contributions.light.svg" alt="Contribution calendar with current and longest streaks" width="100%" /></picture>
+</p>
+
+## 📅 Contribution History
+<p align="center">
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/lifetime.dark.svg" /><img src="./assets/lifetime.light.svg" alt="Contribution history by year" width="100%" /></picture>
+</p>
+
+## 🧩 Contribution Breakdown
+<p align="center">
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/composition.dark.svg" /><img src="./assets/composition.light.svg" alt="Commits, pull requests, issues, reviews, and private contribution breakdown" width="100%" /></picture>
+</p>
+
+## ⏱️ Commit Activity
+<p align="center">
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/cadence.dark.svg" /><img src="./assets/cadence.light.svg" alt="Commit activity by weekday and hour" width="100%" /></picture>
+</p>
+
+## 🏆 Repository & Language Insights
+<p align="center">
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/repositories.dark.svg" /><img src="./assets/repositories.light.svg" alt="Top repositories ranked by commits" width="100%" /></picture>
+</p>
+<p align="center">
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/portfolio.dark.svg" /><img src="./assets/portfolio.light.svg" alt="Public repository portfolio timeline" width="100%" /></picture>
+</p>
+<p align="center">
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/languages.dark.svg" /><img src="./assets/languages.light.svg" alt="Programming language distribution across public repositories" width="100%" /></picture>
 </p>
 
 ---
 
-## 🤝 Let's Connect
-
+## 🤝 Connect
 <p align="center">
-  <a href="https://www.linkedin.com/in/hassan-shahid-5082b9331/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.kaggle.com/hassanshahid21">
-    <img src="https://img.shields.io/badge/Kaggle-Follow-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
-  </a>
-  <a href="https://github.com/HassanShahid12">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+  <a href="https://www.linkedin.com/in/hassan-shahid-5082b9331/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.kaggle.com/hassanshahid21"><img src="https://img.shields.io/badge/Kaggle-Follow-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
+  <a href="https://github.com/HassanShahid12"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
-
-<p align="center">
-  <i>Building, learning, and growing one commit at a time. 🚀</i>
-</p>
+<p align="center"><i>Building, learning, and growing one commit at a time. 🚀</i></p>
