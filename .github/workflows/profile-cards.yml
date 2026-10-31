@@ -26,7 +26,33 @@ jobs:
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           username: HassanShahid12
-          cards: overview,contributions,lifetime,composition,rhythm,cadence,repositories,portfolio,languages
+          cards: overview,lifetime,composition,rhythm,cadence,repositories,portfolio,languages
           output-dir: assets
           themes: light,dark
           commit: true
+
+      - name: Generate light contribution streak card
+        uses: zients/github-readme-streak-stats@v2
+        with:
+          options: user=HassanShahid12&theme=default&hide_border=true&disable_animations=true
+          path: assets/streak.light.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate dark contribution streak card
+        uses: zients/github-readme-streak-stats@v2
+        with:
+          options: user=HassanShahid12&theme=dark&hide_border=true&disable_animations=true
+          path: assets/streak.dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit contribution streak cards
+        run: |
+          git add assets/streak.light.svg assets/streak.dark.svg
+          if git diff --cached --quiet; then
+            echo "No streak card changes."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Update contribution streak cards"
+          git push
