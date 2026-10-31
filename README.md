@@ -49,6 +49,15 @@ I'm a Computer Science graduate from the **University of Karachi (UBIT)**, inter
 
 ---
 
+## 📚 Currently Learning
+
+- Data analysis with **Python and SQL**
+- **Power BI** for data visualization and reporting
+- **Machine learning** fundamentals and practical applications
+- Building hands-on projects to strengthen my analytical and problem-solving skills
+
+---
+
 ## 🚀 Featured Projects
 
 ### [Brand Lift — Startup Decision Support System](https://github.com/HassanShahid12/Brand-Lift)
@@ -112,6 +121,6 @@ An academic project exploring pose estimation and exercise feedback with webcam 
 <p align="center">
   <a href="https://www.linkedin.com/in/hassan-shahid-5082b9331/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://www.kaggle.com/hassanshahid21"><img src="https://img.shields.io/badge/Kaggle-Follow-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
-  <a href="https://github.com/HassanShahid12"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://github.com/HassanShahid12"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
 </p>
 <p align="center"><i>Building, learning, and growing one commit at a time. 🚀</i></p>
