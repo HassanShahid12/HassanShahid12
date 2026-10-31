@@ -6,7 +6,7 @@
 <h1 align="center">Hey there, I'm Hassan Shahid 👋</h1>
 
 <h3 align="center">
-  Junior Data Scientist | Python Developer | Machine Learning Enthusiast
+  Aspiring Data Scientist | Python Developer | Machine Learning Enthusiast
 </h3>
 
 <p align="center">
