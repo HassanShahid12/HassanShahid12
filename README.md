@@ -84,9 +84,9 @@ An academic project exploring pose estimation and exercise feedback with webcam 
   <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/overview.dark.svg" /><img src="./assets/overview.light.svg" alt="GitHub overview: contributions, stars, followers, and repositories" width="100%" /></picture>
 </p>
 
-## 🔥 Contributions & Streak
+## 🔥 Contribution Streaks
 <p align="center">
-  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/contributions.dark.svg" /><img src="./assets/contributions.light.svg" alt="Contribution calendar with current and longest streaks" width="100%" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/streak.dark.svg" /><img src="./assets/streak.light.svg" alt="Current contribution streak, longest streak, and total contributions" width="100%" /></picture>
 </p>
 
 ## 📅 Contribution History
