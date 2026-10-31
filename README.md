@@ -24,7 +24,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I'm a Computer Science graduate from the **University of Karachi (UBIT)** with a strong interest in Data Science, Machine Learning, and Python development.
 
