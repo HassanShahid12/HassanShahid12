@@ -1,7 +1,7 @@
 <!-- Hassan Shahid | GitHub Profile -->
 
-<h1 align="center">Hi, I'm Hassan Shahid 👋</h1>
-<h3 align="center">Junior Data Scientist · Python Developer · Machine Learning Enthusiast</h3>
+<h1 align="center">Hi, I'm Hassan Shahid </h1>
+<h3 align="center"> Aspiring Data Scientist · Python Developer · Machine Learning Enthusiast · Open To Opportunities</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=900&color=7AA2F7&center=true&vCenter=true&width=680&lines=Turning+Data+into+Insights;Building+Practical+AI+Solutions;Exploring+Machine+Learning;Learning+by+Building+Every+Day" alt="Typing animation" />
